@@ -11,7 +11,7 @@
 
 <p align="center">
   <code>44 tools</code> &bull;
-  <code>100% API coverage</code> &bull;
+  <code>100% API coverage</code> &bull; 
   <code>YNAB API v1.83</code>
 </p>
 
